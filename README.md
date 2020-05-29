@@ -76,4 +76,4 @@ This couldn't happen without you. Thank you so much for your contibution to help
 **Disclosure**: ALL donations/contributions will be given to #CodeNewbies. No profit will taken.
 
 ---
-**Site built w/**  ♡, GitHub Pages, Jekyll Theme, MarkDown
+**Site built w/**  ♡, GitHub Pages, Jekyll Theme, MarkDown by [Vicki](https://twitter.com/vicki_langer)
