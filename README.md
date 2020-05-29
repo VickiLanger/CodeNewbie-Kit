@@ -5,7 +5,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/CodeNewbie-Kit.svg)](https://GitHub.com/VickiLanger/CodeNewbie-Kit/graphs/contributors/)
 
 ## Goal
-Welcome #CodeNewbies to the dev community by providing resources to help their journey get started.
+Provide resources to help newbie devs get their journey started. Make newbie devs feel like they belong
 
 ---
 ## Plans
