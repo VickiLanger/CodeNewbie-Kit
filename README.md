@@ -64,7 +64,10 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 |:-----------|:-------------|
 | [HelpDocs](https://www.helpdocs.io)  | sticker sheets |
 | [FlyTrap](https://www.getflytrap.com) | stickers |
-| [You or Your company?](#) | ? |
+| You or Your company? | ? |
+|  |  |
+|  |  |
+|  |  |
 
 ---
 **Disclosure**
