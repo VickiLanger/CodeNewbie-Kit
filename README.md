@@ -1,3 +1,11 @@
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/VickiLanger/CodeNewbie-Kit/fork)
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/VickiLanger/CodeNewbie-Kit/graphs/commit-activity)
+[![open issues](https://img.shields.io/github/issues/VickiLanger/CodeNewbie-Kit.svg)](https://github.com/VickiLanger/CodeNewbie-Kit/issues?q=is%3Aopen+is%3Aissue)
+[![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/CodeNewbie-Kit.svg)](https://github.com/VickiLanger/CodeNewbie-Kit/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/CodeNewbie-Kit.svg)](https://GitHub.com/VickiLanger/CodeNewbie-Kit/graphs/contributors/)
+
 ## Goal
 Welcome #CodeNewbies to the dev community by providing resources to help their journey get started.
 
