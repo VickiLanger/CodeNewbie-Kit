@@ -60,6 +60,8 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 ---
 ## Many Thanks for Contributing
 
+This couldn't happen without you. Thank you so much for your contibution to helping newbie devs feel welcomed to the community.
+
 | Who        | Contributing |
 |:-----------|:-------------|
 | [HelpDocs](https://www.helpdocs.io)  | sticker sheets |
