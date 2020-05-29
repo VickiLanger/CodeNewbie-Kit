@@ -1,6 +1,4 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/VickiLanger/CodeNewbie-Kit/fork)
-[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/VickiLanger/CodeNewbie-Kit/graphs/commit-activity)
 [![open issues](https://img.shields.io/github/issues/VickiLanger/CodeNewbie-Kit.svg)](https://github.com/VickiLanger/CodeNewbie-Kit/issues?q=is%3Aopen+is%3Aissue)
 [![closed pull requests](https://img.shields.io/github/issues-pr-closed/VickiLanger/CodeNewbie-Kit.svg)](https://github.com/VickiLanger/CodeNewbie-Kit/pulls?q=is%3Apr+is%3Aclosed)
@@ -9,6 +7,7 @@
 ## Goal
 Welcome #CodeNewbies to the dev community by providing resources to help their journey get started.
 
+---
 ## Plans
 
 Starting with physical snail mail welcome kits. Eventually will gather a website, I think.
@@ -28,6 +27,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] Set up Patreon/bmac for people to support the cause
 - [ ] Set up way for people to donate their unwanted stickers
 
+---
 ## How you can help
 
 ### Individuals
@@ -56,12 +56,14 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] github
 - [ ] digitalocean
 
-#### Contributing
-Who | Contributing
---|--
-[HelpDocs](https://www.helpdocs.io) | Sticker Sheets
-[FlyTrap](https://www.getflytrap.com) | Stickers
+---
+## Many Thanks for Contributing
 
+| Who        | Contributing |
+|:-----------|:-------------|
+| [HelpDocs](https://www.helpdocs.io)  | sticker sheets |
+| [FlyTrap](https://www.getflytrap.com) | stickers |
+| [You or Your company?](#) | ? |
 
 ---
 **Disclosure**
