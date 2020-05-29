@@ -28,6 +28,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] Look for sponsorships
 - [ ] Set up Patreon/bmac for people to support the cause
 - [ ] Set up way for people to donate their unwanted stickers
+- [ ] Find #CodeNewbies starting their journey
 
 ---
 ## How you can help
@@ -68,9 +69,8 @@ This couldn't happen without you. Thank you so much for your contibution to help
 | [HelpDocs](https://www.helpdocs.io)  | sticker sheets |
 | [FlyTrap](https://www.getflytrap.com) | stickers |
 | You or Your company? | ? |
-|  |  |
-|  |  |
-|  |  |
+| You? | ? |
+| Your company? | ? |
 
 ---
 **Disclosure**: ALL donations/contributions will be given to #CodeNewbies. No profit will taken.
