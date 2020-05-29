@@ -73,5 +73,7 @@ This couldn't happen without you. Thank you so much for your contibution to help
 |  |  |
 
 ---
-**Disclosure**
-ALL donations/contributions will be given to #CodeNewbies. No profit will taken.
+**Disclosure**: ALL donations/contributions will be given to #CodeNewbies. No profit will taken.
+
+---
+**Site Made With** ♡, GitHub Pages, Jekyll Theme, MarkDown
