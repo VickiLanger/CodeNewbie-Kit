@@ -20,6 +20,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] how to google things
 - [ ] list of awesome communities
 - [ ] [You Belong in Tech](https://www.etsy.com/listing/737865757/you-belong-in-tech-sticker) stickers (by [Anna Rankin](https://twitter.com/anniesqueedle)) ![You Belong In Tech metalic sticker](/images/you-belong-in-tech.png) 
+- [ ] A card about [Newbie Coder Problem Solving School](http://lavieencode.net/courses/ncpss/)
 - [ ]  ?
 
 ### How
