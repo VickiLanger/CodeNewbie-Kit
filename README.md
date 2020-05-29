@@ -19,6 +19,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] list of resources
 - [ ] how to google things
 - [ ] list of awesome communities
+- [ ] [You Belong in Tech](https://www.etsy.com/listing/737865757/you-belong-in-tech-sticker) stickers (by [Anna Rankin](https://twitter.com/anniesqueedle)) ![You Belong In Tech metalic sticker](/images/you-belong-in-tech.png) 
 - [ ]  ?
 
 ### How
@@ -42,7 +43,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 ### Businesses
 
  - Create/contribute [something](https://vickilanger.github.io/CodeNewbie-Kit/#include) for the kit
- - Sponsor adding these [You Belong in Tech](https://www.etsy.com/listing/737865757/you-belong-in-tech-sticker) stickers (by [Anna Rankin](https://twitter.com/anniesqueedle)) to the kit ![You Belong In Tech metalic sticker](/images/you-belong-in-tech.png) 
+ - Sponsor adding these [You Belong in Tech](https://www.etsy.com/listing/737865757/you-belong-in-tech-sticker) stickers to the kit
  - Reach out to me on [twitter](https://twitter.com/vicki_langer) and figure out how we can work together
 
 ### Out Reach
