@@ -12,7 +12,7 @@ Provide resources to help newbie devs get their journey started. Make newbie dev
 
 Starting with physical snail mail welcome kits. Eventually will gather a website, I think.
 
-### Include
+### Ideas of things to Include
 - [ ] git cheat sheet 
 - [ ] hot key cheat sheet
 - [ ] dev interactions comic (code reviews, pairing, PRs)
@@ -21,7 +21,9 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] list of awesome communities
 - [ ] [You Belong in Tech](https://www.etsy.com/listing/737865757/you-belong-in-tech-sticker) stickers (by [Anna Rankin](https://twitter.com/anniesqueedle)) ![You Belong In Tech metalic sticker](/images/you-belong-in-tech.png) 
 - [ ] A card about [Newbie Coder Problem Solving School](http://lavieencode.net/courses/ncpss/)
-- [ ] Moderndotweb #ChangeTheRatio stickers?
+- [ ] Moderndotweb #ChangeTheRatio stickers
+- [ ] Printed version of [git zine](https://wizardzines.com/zines/oh-shit-git/) by [Julia Evans](https://twitter.com/b0rk)) 
+- [ ] Printed version of [debugging zine](https://wizardzines.com/zines/bugs/) by [Julia Evans](https://twitter.com/b0rk)) 
 - [ ]  ?
 
 ### How
