@@ -8,6 +8,12 @@
 Provide resources to help newbie devs get their journey started. Make newbie devs feel like they belong
 
 ---
+
+[Plans](https://vickilanger.github.io/CodeNewbie-Kit/#Plans)
+
+[How You can Help](https://vickilanger.github.io/CodeNewbie-Kit/#How-you-can-help)
+
+---
 ## Plans
 
 Starting with physical snail mail welcome kits. Eventually will gather a website, I think.
@@ -22,8 +28,8 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] [You Belong in Tech](https://www.etsy.com/listing/737865757/you-belong-in-tech-sticker) stickers (by [Anna Rankin](https://twitter.com/anniesqueedle)) ![You Belong In Tech metalic sticker](/images/you-belong-in-tech.png) 
 - [ ] A card about [Newbie Coder Problem Solving School](http://lavieencode.net/courses/ncpss/)
 - [ ] Moderndotweb #ChangeTheRatio stickers
-- [ ] Printed version of [git zine](https://wizardzines.com/zines/oh-shit-git/) by [Julia Evans](https://twitter.com/b0rk)) 
-- [ ] Printed version of [debugging zine](https://wizardzines.com/zines/bugs/) by [Julia Evans](https://twitter.com/b0rk)) 
+- [ ] Printed version of [git zine](https://wizardzines.com/zines/oh-shit-git/) (by [Julia Evans](https://twitter.com/b0rk)) 
+- [ ] Printed version of [debugging zine](https://wizardzines.com/zines/bugs/) (by [Julia Evans](https://twitter.com/b0rk)) 
 - [ ]  ?
 
 ### How
@@ -37,7 +43,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 ## How you can help
 
 ### Individuals
-(this is idea is in it's infancy and could use ALL ideas. DM me on [twitter](https://twitter.com/vicki_langer) or submit a pull request.)
+(this idea is in it's infancy and could use ALL ideas. DM me on [twitter](https://twitter.com/vicki_langer) or submit a pull request.)
 
  - Give ideas
  - Ask your company to sponsor/create/contribute something for the kit
@@ -48,7 +54,10 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 ### Businesses
 
  - Create/contribute [something](https://vickilanger.github.io/CodeNewbie-Kit/#include) for the kit
+ - Sponsor to printing of and artist compensation of zines/sketchnotes
+ - Sponsor printing of cards for [Newbie Coder Problem Solving School](http://lavieencode.net/courses/ncpss/)
  - Sponsor adding these [You Belong in Tech](https://www.etsy.com/listing/737865757/you-belong-in-tech-sticker) stickers to the kit
+ - Create/contribute [something](https://vickilanger.github.io/CodeNewbie-Kit/#include) Newbie friendly that helps explains how things work or how to do things
  - Reach out to me on [twitter](https://twitter.com/vicki_langer) and figure out how we can work together
 
 ### Out Reach
