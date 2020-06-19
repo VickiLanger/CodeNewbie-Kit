@@ -38,7 +38,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 ### How
 - [ ] Send emails to companies
 - [ ] Look for sponsorships
-- [ ] Set up Patreon/bmac for people to support the cause
+- [ ] Set up Patreon/bmac for people to support the kits
 - [ ] Set up way for people to donate their unwanted stickers
 - [ ] Find #CodeNewbies starting their journey
 
