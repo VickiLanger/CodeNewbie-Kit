@@ -9,9 +9,12 @@ Provide resources to help newbie devs get their journey started. Make newbie dev
 
 ---
 
-[Plans](https://vickilanger.github.io/CodeNewbie-Kit/#Plans)
-
-[How You can Help](https://vickilanger.github.io/CodeNewbie-Kit/#How-you-can-help)
+## Jump To
+- [Things to Include](#ideas-of-things-to-include)
+- [How you can help](#how-you-can-help)
+  * [Individuals](#individuals)
+  * [Businesses](#businesses)
+- [Contributors](#many-thanks-for-contributing)
 
 ---
 ## Plans
@@ -39,6 +42,19 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] Set up way for people to donate their unwanted stickers
 - [ ] Find #CodeNewbies starting their journey
 
+
+### Out Reach
+
+#### Contact
+
+- [ ] Dev.to
+- [ ] RedHat
+- [ ] alexa99
+- [ ] aws cloud
+- [ ] github
+- [ ] digital ocean
+- [ ] moderndotweb
+
 ---
 ## How you can help
 
@@ -60,17 +76,6 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
  - Create/contribute [something](https://vickilanger.github.io/CodeNewbie-Kit/#include) Newbie friendly that helps explains how things work or how to do things
  - Reach out to me on [twitter](https://twitter.com/vicki_langer) and figure out how we can work together
 
-### Out Reach
-
-#### Contact
-
-- [ ] Dev.to
-- [ ] RedHat
-- [ ] alexa99
-- [ ] aws cloud
-- [ ] github
-- [ ] digital ocean
-- [ ] moderndotweb
 
 ---
 ## Many Thanks for Contributing
