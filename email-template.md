@@ -1,6 +1,6 @@
 Hi there 👋,
 
-I'm [name], a fellow developer and organizer of CodeNewbie Kit. CodeNewbie Kit a welcome kit for #CodeNewbies that gives them a sense of belonging and simple tools/resources to help them get their journey started. 
+I'm [NAME], a fellow developer and organizer of CodeNewbie Kit. CodeNewbie Kit a welcome kit for #CodeNewbies that gives them a sense of belonging and simple tools/resources to help them get their journey started. 
 
 #CodeNewbies are often plagued by analysis paralysis with an entire web of resources. With CodeNewbie Kit #CodeNewbies will have simple tools mailed (yes, snail mail 🐌) to them to get them started on the right foot. 
 
@@ -8,7 +8,7 @@ Talking with other self-taught devs on Twitter, I've noticed we all had a pretty
 
 With this in mind, I asked twitter what should be included and people were super helpful with answers. There were suggestions for hot key cheat sheets, comics that show how to do pull requests, git cheat sheets, of course 😂 stickers, and many other things. 
 
-need good words to describe what I'm asking for. ugh. mind is blank. not sure how to ask. is there some fancy way to ask for stickers/swag/cheat sheets/things why am I writing to you... I don't have the funding... your company could benefit by sponsoring/contributing something to the kit. Would you be willing contribute something?
+I think [COMPANYNAME] would really benefit from being introduced to new devs. Would you be interested in contributing/sponsoring something?
 
 Best Regards,
 Vicki Langer
