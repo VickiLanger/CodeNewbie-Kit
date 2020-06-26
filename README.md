@@ -49,18 +49,18 @@ I need help finding emails for for the ones I haven't contacted yet.
 
 #### Contact
 
-- [ ] RedHat
 - [ ] alexa99
 - [ ] AWS cloud
 - [ ] Github
 - [ ] Digital Ocean
-
-- [ ] CicleCI
+- [ ] CircleCI
 - [ ] Sonatype
 - [ ] Twilio 
 - [x] Dev.to (yo@dev.to) (email sent 26 Jun 2020)
 - [x] GitLab (sponsorships@GitLab.com)(email sent 26 Jun 2020)
 - [x] This Dot Modern Web (hi@thisdot.co) (email sent 26 Jun 2020)
+- [x] OpenSource.com (https://opensource.com/contact) (contact form sent 26 Jun 2020)
+- [x] RedHat (customerservice@redhat.com) (email sent 26 Jun 2020 / ticket # 374241)
 
 
 ---
@@ -102,4 +102,4 @@ This couldn't happen without you. Thank you so much for your contibution to help
 **Disclosure**: ALL donations/contributions will be given to #CodeNewbies. No profit will taken.
 
 ---
-**Site built w/**  ♡, GitHub Pages, Jekyll Theme, & MarkDown by [Vicki](https://twitter.com/vicki_langer)
+**Site built w/**  ♡♡, GitHub Pages, Jekyll Theme, & MarkDown by [Vicki](https://twitter.com/vicki_langer)
