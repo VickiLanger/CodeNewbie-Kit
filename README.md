@@ -54,8 +54,10 @@ I need help finding emails for for the ones I haven't contacted yet.
 - [ ] Github
 - [ ] Digital Ocean
 - [ ] CircleCI
-- [ ] Sonatype
+- [x] Sonatype
 - [ ] Twilio
+- [ ] repl.it
+- [ ] glitch 
 - [ ] Egghead.io
 - [ ] Scratch.mit.edu
 - [ ] codepen.io
