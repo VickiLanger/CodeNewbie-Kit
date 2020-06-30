@@ -8,7 +8,7 @@ Talking with other self-taught devs on Twitter, I've noticed we all had a pretty
 
 With this in mind, I asked twitter what should be included and people were super helpful with answers. There were suggestions for hot key cheat sheets, comics that show how to do pull requests, git cheat sheets, of course 😂 stickers, and many other things. 
 
-I think [COMPANYNAME] would really benefit from being introduced to new underrepresenteddevs. Would you be interested in contributing/sponsoring something?
+I think [COMPANYNAME] would really benefit from being introduced to new underrepresented devs. Would you be interested in contributing/sponsoring something?
 
 Best Regards,
 Vicki Langer
