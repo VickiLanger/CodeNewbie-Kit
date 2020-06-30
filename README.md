@@ -60,6 +60,7 @@ I need help finding emails for for the ones I haven't contacted yet.
 - [ ] Scratch.mit.edu
 - [ ] codepen.io
 - [ ] https://pride.codes/
+- [x] flatiron school
 - [x] CSS Tricks
 - [x] FreeCodeCamp
 - [x] CodeNewbie.org
