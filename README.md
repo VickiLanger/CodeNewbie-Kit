@@ -43,7 +43,7 @@ Starting with physical snail mail welcome kits. Eventually will gather a website
 - [ ] Find #CodeNewbies starting their journey
 
 
-### Out Reach
+### OutReach
 
 I need help finding emails for for the ones I haven't contacted yet.
 
@@ -58,12 +58,13 @@ I need help finding emails for for the ones I haven't contacted yet.
 - [ ] Twilio
 - [ ] Egghead.io
 - [ ] Scratch.mit.edu
-- [x] Dev.to (yo@dev.to) (email sent 26 Jun 2020)
-- [x] GitLab (sponsorships@GitLab.com)(email sent 26 Jun 2020)
-- [x] This Dot Modern Web (hi@thisdot.co) (email sent 26 Jun 2020)
-- [x] OpenSource.com (https://opensource.com/contact) (contact form sent 26 Jun 2020)
-- [x] RedHat (customerservice@redhat.com) (email sent 26 Jun 2020 / ticket # 374241)
+- [x] Dev.to
+- [x] GitLab
+- [x] This Dot Modern Web
+- [x] OpenSource.com
+- [x] RedHat
 
+([Details about contact](contacted.md))
 
 ---
 ## How you can help
