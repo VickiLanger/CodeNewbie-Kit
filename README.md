@@ -55,7 +55,9 @@ I need help finding emails for for the ones I haven't contacted yet.
 - [ ] Digital Ocean
 - [ ] CircleCI
 - [ ] Sonatype
-- [ ] Twilio 
+- [ ] Twilio
+- [ ] Egghead.io
+- [ ] Scratch.mit.edu
 - [x] Dev.to (yo@dev.to) (email sent 26 Jun 2020)
 - [x] GitLab (sponsorships@GitLab.com)(email sent 26 Jun 2020)
 - [x] This Dot Modern Web (hi@thisdot.co) (email sent 26 Jun 2020)
