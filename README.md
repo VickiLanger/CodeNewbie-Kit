@@ -5,7 +5,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/VickiLanger/CodeNewbie-Kit.svg)](https://GitHub.com/VickiLanger/CodeNewbie-Kit/graphs/contributors/)
 
 ## Goal
-Provide resources to help newbie devs get their journey started. Make newbie devs feel like they belong
+Provide resources to help newbie devs get their journey started. Our focus is on helping underrepresented newbie devs feel like they belong
 
 ---
 
