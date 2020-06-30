@@ -58,12 +58,12 @@ I need help finding emails for for the ones I haven't contacted yet.
 - [ ] Twilio
 - [ ] Egghead.io
 - [ ] Scratch.mit.edu
-- [ ] [codepen.io]
-- [x] [CSS Tricks](https://css-tricks.com/contact/)
-- [ ] [FreeCodeCamp](team@freecodecamp.org)
-- [ ] [CodeNewbie.org](saron@codenewbie.org)
-- [ ] [Treehouse](help@teamtreehouse.com)
+- [ ] codepen.io
 - [ ] https://pride.codes/
+- [x] CSS Tricks
+- [x] FreeCodeCamp
+- [x] CodeNewbie.org
+- [x] Treehouse
 - [x] Dev.to
 - [x] GitLab
 - [x] This Dot Modern Web
